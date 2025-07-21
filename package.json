@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^24.0.15",
+    "typescript": "^5.8.3",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+    "start": "ts-node export_solana_keys.ts"
+  }
+}
